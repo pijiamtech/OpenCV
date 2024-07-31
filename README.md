@@ -21,13 +21,19 @@ namefile // เป็นแต่ละ file
 
 ## วิธีใช้ git add
 git add .gitignore // อยากเพิ่มไฟล์ .gitignore เข้า git
+
 git commit -m "add .gitignore" // commit and comment ขึ้น git
+
 git status //
+
 git push //
 
-อีกครั้งนะครับ
+### เสริม
 
 git add --all
+
 git commit -m "edit readme and add requirements.txt"
+
 git log // ดูประวัติ กด q เพื่อออก
+
 git push
