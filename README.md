@@ -24,3 +24,10 @@ git add .gitignore // อยากเพิ่มไฟล์ .gitignore เข�
 git commit -m "add .gitignore" // commit and comment ขึ้น git
 git status //
 git push //
+
+อีกครั้งนะครับ
+
+git add --all
+git commit -m "edit readme and add requirements.txt"
+git log // ดูประวัติ กด q เพื่อออก
+git push
