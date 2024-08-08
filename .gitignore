@@ -1,3 +1,8 @@
 # depandencies
 /.venv
 text99.txt
+__pycache__
+output.jpg
+output.avi
+test.py
+/image
